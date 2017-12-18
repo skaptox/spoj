@@ -3,7 +3,6 @@
 #include <math.h>
 #include <iostream>
 
-
 using namespace std;
 using ull = unsigned long long;
 
