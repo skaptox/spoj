@@ -1,3 +1,5 @@
+#http://www.spoj.com/problems/TOANDFRO/
+
 def trailing_zeros(n):
     i = 5
     count = 0

@@ -1,3 +1,5 @@
+#http://www.spoj.com/problems/FCTRL2/
+
 import math
 
 def main():
